@@ -59,10 +59,6 @@ input{
     transition: background-color 0.2s ease-in-out;
 }
 
-.delete-btn:hover{
-    box-shadow: 0 2px 4px rgb(0,0,0,0.2); 
-}
-
 .reminder-list li{
     display: flex;
     justify-content: space-between;
